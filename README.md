@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Gateways managment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is about gateways managment. You should be able adding, deleting, updating gateways and display information about them. Also you can add and remove devices from each gateway, no more 10 devices per gateway.
 
 ## Available Scripts for server
 
