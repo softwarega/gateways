@@ -10,7 +10,7 @@ In the project directory /server, you can run:
 
 Runs the server.
 
-> In order to run the server, you need in first place, rename the `env.tpl` by `.env` file.
+> In order to run the server, you need in first place, copy the content of `env.tpl` file to a new file named `.env`.
 
 ## Available Scripts for client
 
